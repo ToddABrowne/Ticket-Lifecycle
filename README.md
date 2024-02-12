@@ -40,7 +40,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/62eIYP4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Understanding  the important topics of a created ticket is extremely important. Once properly informed about the issue that supports the ticket. The ticket can be assisgned with instructions on a case by case basis.
 </p>
 <br />
 
@@ -48,6 +48,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/a6TkNdX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/Tip2mhY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p>
+Now that the ticket has been assigned and the priotiy has been set. The help desk agent is required to complete the ticket following the SLA rules for a resolution.
 </p>
 <br />
